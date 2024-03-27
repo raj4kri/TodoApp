@@ -1,0 +1,24 @@
+
+
+input{
+  width: 100%;
+}
+.items{
+  text-align: left;
+}
+
+.new-row{
+
+margin:10px 5px;
+}
+
+.new-btn{
+
+  min-width: 80px;
+
+}
+
+
+.p{
+  height: 40px
+}
